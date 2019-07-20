@@ -49,7 +49,6 @@ scipy=1.2.1=py27hbd7caa9_1
 setuptools=41.0.1=py27_0
 six=1.12.0=py27_1000
 sqlite=3.29.0=ha441bb4_0
-tabicon-cp27=1.0=pypi_0
 tbb=4.3_20141023=0
 tensorboard=1.10.0=py27_0
 tensorflow=1.10.0=py27_0
