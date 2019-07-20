@@ -23,11 +23,11 @@ dependencies:
   - keras-preprocessing=1.0.2
   - libblas=3.8.0
   - libcblas=3.8.0
-  - libcxx=4.0.1
-  - libcxxabi=4.0.1
+  - libcxx
+  - libcxxabi
   - libedit=3.1.20181209
   - libffi=3.2.1
-  - libgfortran=3.0.1
+  - libgfortran
   - libgpuarray=0.7.6
   - liblapack=3.8.0
   - libopenblas=0.3.6
@@ -52,7 +52,7 @@ dependencies:
   - setuptools=41.0.1
   - six=1.12.0
   - sqlite=3.29.0
-  - tbb=4.3_20141023
+  - tbb
   - tensorboard=1.10.0
   - tensorflow=1.10.0
   - termcolor=1.1.0
@@ -64,7 +64,5 @@ dependencies:
   - wheel=0.33.4
   - yaml=0.1.7
   - zlib=1.2.11
-  - pip:
-    - tabicon-cp27==1.0
-prefix: /Users/mike/anaconda3/envs/binarization
+#prefix: /Users/mike/anaconda3/envs/binarization
 
